@@ -1,16 +1,9 @@
 # bhagwad_geeta
 
-A new Flutter project.
+<img src = "https://github.com/kapadiyadarshan/Bhagwad_Geeta/assets/121553877/2d3f36a1-6c58-4d77-9075-abcb4931a36f" width=300>
 
-## Getting Started
+<img src = "https://github.com/kapadiyadarshan/Bhagwad_Geeta/assets/121553877/2ded036a-0869-4320-9e1c-1ce787c5a23b" width=300>
 
-This project is a starting point for a Flutter application.
+<img src = "https://github.com/kapadiyadarshan/Bhagwad_Geeta/assets/121553877/d7c689a3-e4c3-4787-9137-05af03fdd76a" width=300>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/kapadiyadarshan/Bhagwad_Geeta/assets/121553877/a9ff3b9c-ec8b-4539-9d8c-5c40a81f168f
